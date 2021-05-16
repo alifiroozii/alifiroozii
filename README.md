@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 HTML, CSS
 JavaScript, jQuery
-Front End frameworks (Angular, Ember, React)
+Front End frameworks ( React)
 Responsive UI Design
 WordPress
 Adobe Photoshop
